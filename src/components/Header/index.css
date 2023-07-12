@@ -1,0 +1,17 @@
+.unorder-list {
+  padding-left: 0px;
+}
+
+.nav-item {
+  list-style-type: none;
+}
+
+.link {
+  text-decoration: none;
+  color: blue;
+  font-size: 14px;
+}
+
+.link:hover {
+  font-weight: bold;
+}
